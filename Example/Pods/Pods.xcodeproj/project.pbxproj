@@ -47,27 +47,27 @@
 		4FC55BA52A5EF2187B220F04477E56B0 /* Pods-GrowingTextView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrowingTextView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		59EABB4FF216082DD38EB433ED0BE914 /* Pods-GrowingTextView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GrowingTextView_Tests-dummy.m"; sourceTree = "<group>"; };
 		5AA10798EFCA8541CAD3ABD37BE0AB62 /* Pods-GrowingTextView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrowingTextView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		5FBF0B5BEFFFD242EBA5D7809CBC396D /* GrowingTextView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = GrowingTextView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5FBF0B5BEFFFD242EBA5D7809CBC396D /* GrowingTextView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = GrowingTextView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6A3FC33C7B07103F194645DE8E921332 /* Pods-GrowingTextView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GrowingTextView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		6A82771EB04CED758BF5258BCB958E59 /* Pods-GrowingTextView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GrowingTextView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		748958C58116A87507402AE204501B1D /* Pods-GrowingTextView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrowingTextView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		7774CC42976192FD997388417F6480E1 /* Pods_GrowingTextView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GrowingTextView_Example.framework; path = "Pods-GrowingTextView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7774CC42976192FD997388417F6480E1 /* Pods_GrowingTextView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GrowingTextView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E8472264155E268A422422ACAB80149 /* GrowingTextView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = GrowingTextView.modulemap; sourceTree = "<group>"; };
 		81A9C1B2D562A7CBDDBA3FC1DB91A2F8 /* GrowingTextView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "GrowingTextView-Info.plist"; sourceTree = "<group>"; };
 		837EED44B9D55CB4301E0A76C454D272 /* Pods-GrowingTextView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GrowingTextView_Example-dummy.m"; sourceTree = "<group>"; };
-		8A037C8FBEB814679CA54FE20315DE47 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		8A037C8FBEB814679CA54FE20315DE47 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		96A9C752E77ABB1979862C455CB07529 /* Pods-GrowingTextView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GrowingTextView_Tests-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AD2754D1627189EB55A756B16FC178EF /* GrowingTextView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GrowingTextView-umbrella.h"; sourceTree = "<group>"; };
 		B6C0B93EF9E82C65ED63EB002611EC65 /* Pods-GrowingTextView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GrowingTextView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BD5F90369E0A57D7EC6C5246AC290BCD /* GrowingTextView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GrowingTextView.xcconfig; sourceTree = "<group>"; };
 		D34C5CA3A0D9BA41AECFD92BAB7D3BCC /* Pods-GrowingTextView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrowingTextView_Example-frameworks.sh"; sourceTree = "<group>"; };
 		D69824436A58A25C8FA60F0FCF7AAF28 /* Pods-GrowingTextView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrowingTextView_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		E657EB187F0C548C9257F61040056773 /* Pods-GrowingTextView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrowingTextView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		E9B90CCF6954FCC4B4894C2AA9780A4A /* Pods_GrowingTextView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GrowingTextView_Tests.framework; path = "Pods-GrowingTextView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EE6DD8FC166ED967B4261137B1A50A96 /* GrowingTextView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GrowingTextView.framework; path = GrowingTextView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9B90CCF6954FCC4B4894C2AA9780A4A /* Pods_GrowingTextView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GrowingTextView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE6DD8FC166ED967B4261137B1A50A96 /* GrowingTextView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GrowingTextView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F27BA64B2D5163D1564D29BDC552E29D /* Pods-GrowingTextView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GrowingTextView_Tests.modulemap"; sourceTree = "<group>"; };
-		F51E381DCBC8FF77039594A792E7150F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		F51E381DCBC8FF77039594A792E7150F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F8C4725EB984B99F6B842F0350B878FC /* GrowingTextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GrowingTextView.swift; path = Sources/GrowingTextView/GrowingTextView.swift; sourceTree = "<group>"; };
 		FE53449B7F45522EE4364D07DEFF6395 /* Pods-GrowingTextView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GrowingTextView_Example-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -422,7 +422,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GrowingTextView_Example/Pods-GrowingTextView_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GrowingTextView_Example/Pods-GrowingTextView_Example.modulemap";
@@ -455,7 +455,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/GrowingTextView/GrowingTextView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/GrowingTextView/GrowingTextView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/GrowingTextView/GrowingTextView.modulemap";
 				PRODUCT_MODULE_NAME = GrowingTextView;
@@ -486,7 +486,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GrowingTextView_Tests/Pods-GrowingTextView_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GrowingTextView_Tests/Pods-GrowingTextView_Tests.modulemap";
@@ -557,8 +557,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -644,7 +643,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/GrowingTextView/GrowingTextView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/GrowingTextView/GrowingTextView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/GrowingTextView/GrowingTextView.modulemap";
 				PRODUCT_MODULE_NAME = GrowingTextView;
@@ -676,7 +675,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GrowingTextView_Tests/Pods-GrowingTextView_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GrowingTextView_Tests/Pods-GrowingTextView_Tests.modulemap";
@@ -709,7 +708,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GrowingTextView_Example/Pods-GrowingTextView_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GrowingTextView_Example/Pods-GrowingTextView_Example.modulemap";
